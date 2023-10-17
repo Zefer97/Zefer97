@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zefer97
+- 👋 Hi, I’m Zafar Cafarov
 - 👀 I’m interested in Android Kotlin
 - 🌱 I’m currently learning in BootCamp
 
